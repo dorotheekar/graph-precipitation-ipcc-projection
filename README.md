@@ -1,4 +1,4 @@
-## Graph of IPCC precipitation projection and historical precipitation (on France : départements/régions)
+## Graph of IPCC precipitation projection and historical precipitation (on France : 'départements'/'régions')
 ### Introduction
 
 > The provided graphs are based on Eurocordex NetCDF files on adjusted IPCC models (https://www.euro-cordex.net/060378/index.php.en) and display 
