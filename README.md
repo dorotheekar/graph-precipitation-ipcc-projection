@@ -1,7 +1,7 @@
 ## Graph of IPCC precipitation projection and historical precipitation (on France : 'départements'/'régions')
 ### Introduction
 
-> The provided graphs are based on Eurocordex NetCDF files on adjusted IPCC models (https://www.euro-cordex.net/060378/index.php.en) and display 
+> The provided graphs are based on Eurocordex NetCDF files adjusted IPCC models (https://www.euro-cordex.net/060378/index.php.en) and display 
 precipitation cumulation level on historical and projection models. The idea is to provide a comparision between historical and future annual cumulation of precipitation. Time intervall, IPCC projection and geographical french area are to be chosen by user. 
 <!-- toc -->
 ### Table of contents
